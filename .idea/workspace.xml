@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08388138-b84d-42a6-a1e5-6e296074246d" name="Changes" comment="" />
+    <list default="true" id="08388138-b84d-42a6-a1e5-6e296074246d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/App/src/room.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/room.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,9 @@
     "Application.HotelApp.executor": "Run",
     "Application.UseCase2RoomInitialization.executor": "Run",
     "Application.UseCase4RoomSearch.executor": "Run",
+    "Application.UseCase6RoomAllocationService.executor": "Run",
+    "Application.UseCase8BookingHistoryReport.executor": "Run",
+    "Application.UseCase9ErrorHandlingValidation.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,7 +62,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "UC5",
+    "git-widget-placeholder": "UC9",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
